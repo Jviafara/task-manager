@@ -17,7 +17,7 @@ interface Todo {
     image?: Image;
 }
 
-interface image {
+interface Image {
     bucketId: string;
     fileId: string;
 }
